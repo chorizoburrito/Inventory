@@ -1,9 +1,9 @@
 # Computer Inventory 5/14/21
 
 ### Macs:
-* 1 on shelf (~2019 Air)
-* 1 in limbo (return from Augie; waiting for 16")
-* 1 in limbo (out for repair)
+* 1x ~2019 MBA
+* 1x 13" MBP in limbo (return from Augie; waiting for 16")
+* 1x 13" MBP limbo (out for repair)
 
 ### PC's:
 * Zero 'general' PC's.
