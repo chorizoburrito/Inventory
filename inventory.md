@@ -1,0 +1,19 @@
+# Computer Inventory 5/14/21
+
+### Macs:
+* 1 on shelf (~2019 Air)
+* 1 in limbo (return from Augie; waiting for 16")
+* 1 in limbo (out for repair)
+
+### PC's:
+* Zero.
+  * T460's
+
+
+
+### Expected Returns:
+* Dell 7400 (Cameron)
+* Dell 7490 (Daniel)
+
+### Orders:
+* 5x Dell 7420s (Delivery Date TBD)
