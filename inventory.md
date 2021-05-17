@@ -26,7 +26,8 @@
 * 1 Mac (5/24)
 * 1 Mac (6/01)
 
-41 Unique Open Req's (5/17 10am)
+41 Unique Open Req's (5/17 11am)
+* Expecting 2-5 over the next 2 weeks
 
 #### Replacement Requests:
 * 32 Outstanding Requests
