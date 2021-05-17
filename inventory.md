@@ -29,4 +29,6 @@
 41 Unique Open Req's (5/17 10am)
 
 #### Replacement Requests:
-* 30 Outstanding Requests
+* 32 Outstanding Requests
+  * 15x PC
+  * 17x Mac
