@@ -1,4 +1,4 @@
-# Computer Inventory 5/24/21
+# Computer Inventory 5/17/21
 
 ### Macs:
 * 1x ~2019 MBA
@@ -26,7 +26,7 @@
 * 1 Mac (5/24)
 * 1 Mac (6/01)
 
-~40 Open Req's
+41 Unique Open Req's (5/17 10am)
 
 #### Replacement Requests:
 * 30 Outstanding Requests
