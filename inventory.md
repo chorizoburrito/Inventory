@@ -1,4 +1,4 @@
-# Computer Inventory 5/14/21
+# Computer Inventory 5/17/21
 
 ### Macs:
 * 1x ~2019 MBA
@@ -18,3 +18,15 @@
 
 ### Orders:
 * 5x Dell 7420s (Delivery Date TBD)
+
+
+## Demand
+
+#### New Hires:
+* 1 Mac (5/24)
+* 1 Mac (6/01)
+
+~40 Open Req's
+
+#### Replacement Requests:
+* 30 Outstanding Requests
