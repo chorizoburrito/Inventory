@@ -17,7 +17,11 @@
 * Dell XPS13 (Nathan, 5/18)
 
 ### Orders:
-* 5x Dell 7420s (Delivery Date TBD)
+* 3x 16" MBP (ETA 5/19)
+* 2x 13" MBP (ETA 5/25)Î
+* 5x Dell 7420 (Approx. ETA 5/26)
+
+* 5x Dell 7420 (Delivery Date TBD)
 
 
 ## Demand
@@ -26,7 +30,7 @@
 * 1 Mac (5/24)
 * 1 Mac (6/01)
 
-41 Unique Open Req's (5/17 11am)
+51 Unique Open Req's (5/17 11am)
 * Expecting 2-5 over the next 2 weeks
 
 #### Replacement Requests:
