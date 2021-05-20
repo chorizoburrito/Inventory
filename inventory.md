@@ -1,12 +1,11 @@
 # Computer Inventory 5/17/21
 
 ### Macs:
-* 1x 2020 13" MBP
+* 2x 2020 13" MBP
 * 1x 2019 13" MBP
 * 1x ~2017 13" MBP
 * 3x 2020 16" MBP 
 
-* 1x 13" MBP in limbo (return from Augie; waiting for 16")
 
 ### PC's:
 * 1x Dell 7490
