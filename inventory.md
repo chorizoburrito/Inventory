@@ -1,7 +1,7 @@
 # Computer Inventory 5/17/21
 
 ### Macs:
-* 2x 2020 13" MBP
+* 4x 2020 13" MBP
 * 1x 2019 13" MBP
 * 1x ~2017 13" MBP
 * 3x 2020 16" MBP 
@@ -13,11 +13,11 @@
 
 
 ### Expected Returns:
-* Dell 7400 (Cameron)
+* No re-issuable machines currently in return pipeline.
 
 ### Orders:
-* 2x 13" MBP (ETA 5/20)
 * 5x Dell 7420 (Approx. ETA 5/27)
+
 
 * 5x Dell 7420 (Delivery Date TBD)
 
