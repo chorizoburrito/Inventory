@@ -1,15 +1,13 @@
 # Computer Inventory 5/24/21
 
 ### Macs:
-* 4x 2020 13" MBP
-* 1x 2019 13" MBP
+* 2x 2020 13" MBP
 * 1x ~2017 13" MBP
-* 3x 2020 16" MBP 
 
 
 ### PC's:
-* 1x Dell 7490
-* 3x Dell XPS 13 (Director level or higher)
+* 2x Dell 7490
+* 2x Dell XPS 13 (Director level or higher)
 
 
 ### Expected Returns:
@@ -25,12 +23,12 @@
 ## Demand
 
 #### New Hires:
-* 1 Mac (6/01)
+* 2 Mac (6/01, shipped 5/26)
 
 51 Unique Open Req's (5/17 11am)
 * Expecting 2-5 over the next 2 weeks
 
 #### Replacement Requests:
-* 33 Outstanding Requests
-  * 15x PC
-  * 18x Mac
+* 30 Outstanding Requests
+  * 14x PC
+  * 16x Mac
