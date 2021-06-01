@@ -11,24 +11,24 @@
 
 
 ### Expected Returns:
-* No re-issuable machines currently in return pipeline.
+* 13" 2020 MBP (Scott)
 
 ### Orders:
-* 5x Dell 7420 (Approx. ETA 5/27)
+All orders on backorder.
 
-
-* 5x Dell 7420 (Delivery Date TBD)
+* 5x Dell 7420 (TBD July)
+* 5x Dell 7420 (TBD July)
 
 
 ## Demand
 
 #### New Hires:
-* 2 Mac (6/01, shipped 5/26)
+* 1x PC (6/07, UK)
 
 51 Unique Open Req's (5/17 11am)
 * Expecting 2-5 over the next 2 weeks
 
 #### Replacement Requests:
-* 30 Outstanding Requests
-  * 14x PC
-  * 16x Mac
+* 23 Outstanding Requests
+  * 12x PC
+  * 11x Mac
