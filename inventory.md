@@ -12,9 +12,12 @@
 
 ### Expected Returns:
 * 13" 2020 MBP (Scott)
+* 13" 2020 MBP (Ashley S)
+* 13" 2020 MBA (Eric)
 
 ### Orders:
-All orders on backorder.
+* 4x Dell 7420 (TBD 6/9)
+
 
 * 5x Dell 7420 (TBD July)
 * 5x Dell 7420 (TBD July)
