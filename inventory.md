@@ -1,4 +1,4 @@
-# Computer Inventory 5/24/21
+# Computer Inventory 6/1/21
 
 ### Macs:
 * 2x 2020 13" MBP
@@ -17,6 +17,7 @@
 
 ### Orders:
 * 4x Dell 7420 (TBD 6/9)
+
 
 
 * 5x Dell 7420 (TBD July)
