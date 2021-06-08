@@ -1,7 +1,7 @@
-# Computer Inventory 6/1/21
+# Computer Inventory 6/7/21
 
 ### Macs:
-* 2x 2020 13" MBP
+* 3x 2020 13" MBP
 * 1x ~2017 13" MBP
 
 
@@ -27,7 +27,8 @@
 ## Demand
 
 #### New Hires:
-* 1x PC (6/07, UK)
+* 1x Mac, UK (6/14)
+* 1x Mac (6/14)
 
 51 Unique Open Req's (5/17 11am)
 * Expecting 2-5 over the next 2 weeks
